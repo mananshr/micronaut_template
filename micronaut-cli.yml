@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: io.github.mananshr.microntest
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, asciidoctor, aws-v2-sdk, cache-caffeine, cassandra, data, data-mongodb, dynamodb, elasticsearch, email-amazon-ses, email-template, github-workflow-ci, gradle, graphql, hibernate-validator, http-client, jackson-databind, java, jdbc-tomcat, junit, junit-params, kafka, kafka-streams, kubernetes-client, log4j2, micronaut-build, mongo-sync, mqttv3, mysql, picocli, picocli-java-application, picocli-junit, properties, readme, rxjava3, rxjava3-http-client, security-annotations, security-jwt, security-oauth2, security-session, serialization-jackson, shade, spring, spring-boot, test-resources]
